@@ -6,15 +6,13 @@ The file variables.py allows the user to set all variables for the design optimi
 
 ### Prerequisites
 The program depends on several other packages.
-\begin{itemize}
-\item Numpy
-\item Scipy
-\item Matplotlib
-\item Pypardiso (optional, but faster direct solver than scipy's spsolve)
-\end{itemize}
+Numpy
+Scipy
+Matplotlib
+Pypardiso (optional, but faster direct solver than scipy's spsolve)
 
 ## License
-This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 The topology optimization of stage 1 is Python version of the 99-line Matlab code published by DTU (http://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-written-in-Python).
